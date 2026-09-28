@@ -1,3 +1,6 @@
+Assignment: DSA 
+Name: Rihan khan
+Student ID: BC2025503
 
 Q1. Stack Using Array
 Definition of Stack
